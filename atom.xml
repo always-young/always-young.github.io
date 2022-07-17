@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>https://always-young.github.io</id>
+    <title>Kevin Lau&apos;s Blog</title>
+    <updated>2022-07-17T02:02:35.582Z</updated>
+    <generator>https://github.com/jpmonette/feed</generator>
+    <link rel="alternate" href="https://always-young.github.io"/>
+    <link rel="self" href="https://always-young.github.io/atom.xml"/>
+    <subtitle>你知道的越多，不知道也会越多！</subtitle>
+    <logo>https://always-young.github.io/images/avatar.png</logo>
+    <icon>https://always-young.github.io/favicon.ico</icon>
+    <rights>All rights reserved 2022, Kevin Lau&apos;s Blog</rights>
+    <entry>
+        <title type="html"><![CDATA[测试文章]]></title>
+        <id>https://always-young.github.io/post/ce-shi-wen-zhang/</id>
+        <link href="https://always-young.github.io/post/ce-shi-wen-zhang/">
+        </link>
+        <updated>2022-07-17T01:26:36.000Z</updated>
+        <content type="html"><![CDATA[<figure data-type="image" tabindex="1"><img src="https://always-young.github.io/post-images/1658021203063.png" alt="" loading="lazy"></figure>
+]]></content>
+    </entry>
+</feed>
